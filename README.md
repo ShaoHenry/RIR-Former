@@ -219,7 +219,7 @@ eval_images/
 
 MIT License
 
-Copyright (c) 2026 Shaoheng Xu
+Copyright (c) 2026 Shaoheng Xu and Chunyi Sun
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
