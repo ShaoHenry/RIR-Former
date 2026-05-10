@@ -15,16 +15,13 @@ This repository provides a single-file evaluation pipeline that:
 If you use this repository in your research, please cite:
 
 ```bibtex
-@INPROCEEDINGS{11462487,
-  author={Xu, Shaoheng and Sun, Chunyi and Zhang, Jihui Aimee and Samarasinghe, Prasanga and Abhayapala, Thushara},
-  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  title={RIR-Former: Coordinate-Guided Transformer for Continuous Reconstruction of Room Impulse Responses}, 
-  year={2026},
-  volume={},
-  number={},
-  pages={15312-15316},
-  keywords={Feeds;Antennas;System-on-chip;Application specific integrated circuits;Location awareness;Mobile communication;Protocols;HTTP;LoRa;Data communication;room impulse response;RIR reconstruction;transformer models},
-  doi={10.1109/ICASSP55912.2026.11462487}
+@INPROCEEDINGS{rirformer2026,
+  author    = {Xu, Shaoheng and Sun, Chunyi and Zhang, Jihui Aimee and Samarasinghe, Prasanga and Abhayapala, Thushara},
+  booktitle = {ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title     = {RIR-Former: Coordinate-Guided Transformer for Continuous Reconstruction of Room Impulse Responses}, 
+  year      = {2026},
+  pages     = {15312-15316},
+  doi       = {10.1109/ICASSP55912.2026.11462487}
 }
 ```
 
