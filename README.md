@@ -1,6 +1,6 @@
-# RIR-Former Evaluation
+# [RIR-Former: Coordinate-Guided Transformer for Continuous Reconstruction of Room Impulse Responses](https://ieeexplore.ieee.org/document/11462487) (ICASSP 2026)
 
-Standalone evaluation / inference script for **RIR-Former: Coordinate-Guided Transformer for Continuous Reconstruction of Room Impulse Responses**.
+Official evaluation code, dataset, and pretrained checkpoint for our ICASSP 2026 paper.
 
 This repository provides a single-file evaluation pipeline that:
 
